@@ -31,7 +31,7 @@ register.addEventListener('click', (e) => {
 		setTimeout(() => {
 			document.getElementById('hidden').classList.add('hidden');
 		}, 1000);
-		window.location.replace('http://127.0.0.1:5500/frontend/login.html');
+		window.location.replace('https://dazzling-nobel-b0e887.netlify.app/login.html');
 	} else {
 		document.getElementById('hidden').innerHTML = `
 			<div class=" failure">

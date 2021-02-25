@@ -31,7 +31,7 @@ loginbtn.addEventListener('click', async (e) => {
 			// let resultData = await result.json();
 			// console.log(resultData);
 
-			window.location.replace('http://127.0.0.1:5500/frontend/homePage.html');
+			window.location.replace('https://dazzling-nobel-b0e887.netlify.app/homePage.html');
 		};
 		verifyData();
 
